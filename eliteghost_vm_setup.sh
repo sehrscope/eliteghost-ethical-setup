@@ -61,4 +61,5 @@ ZRC
 chown -R "$TARGET_USER:$TARGET_USER" "$USER_HOME"
 chsh -s /usr/bin/zsh "$TARGET_USER"
 
-echo "[+] All done! Reboot and enjoy your fully loaded ethical hacking machine."
+echo "[+] All done! Reboot and enjoy your fully loaded ethical hacking machine."# 
+
